@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">practice6</string>
+    <string name="sendData">Отправить</string>
+    <string name="labelMainFragment">Уведомление</string>
+    <string name="notification_title">Notification</string>
+    <string name="returnToMainFragment">Вернуться</string>
+    <string name="textOfBanner">Баннер</string>
+</resources>
